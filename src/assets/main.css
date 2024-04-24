@@ -1,8 +1,8 @@
 @import './base.css';
 /* @import '@solid-design-system/versioned-styles'; */
 /* @import '@solid-design-system/components/dist/versioned-styles/solid-styles.css'; */
-@import '@solid-design-system/components/dist/styles/solid-styles.css';
-@import 'node_modules/@solid-design-system/components/dist/styles/solid-styles.css';
+/* @import '@solid-design-system/components/dist/styles/solid-styles.css'; */
+@import '../../node_modules/@solid-design-system/components/dist/styles/solid-styles.css';
 
 #app {
   max-width: 1280px;
